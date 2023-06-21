@@ -2,6 +2,7 @@
 layout: post
 title: "Practico NGS"
 date: 2023-06-17
+categories: Teorico
 ---
 
 
