@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Practico NGS"
+date: 2023-06-17
+---
+
+
 - Navegación en el sistema de archivos: Practica el uso de comandos como cd, ls, pwd y mkdir para navegar en el sistema de archivos y crear nuevas carpetas.
 
 - Manipulación de archivos: Usa comandos como cp, mv, rm y touch para copiar, mover, eliminar y crear nuevos archivos.
